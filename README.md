@@ -1,2 +1,2 @@
 # Hey-everyone
-My first
+New on GitHub
